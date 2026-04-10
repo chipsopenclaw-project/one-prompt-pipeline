@@ -2,3 +2,5 @@ pandas
 pyarrow
 requests
 pytest
+streamlit
+plotly
